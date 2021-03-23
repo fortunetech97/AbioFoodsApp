@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbioFoodsApp", "AbioFoodsApp\AbioFoodsApp.csproj", "{A500FC80-CAA2-4786-8F87-994CABADF388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A500FC80-CAA2-4786-8F87-994CABADF388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A500FC80-CAA2-4786-8F87-994CABADF388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A500FC80-CAA2-4786-8F87-994CABADF388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A500FC80-CAA2-4786-8F87-994CABADF388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A12AB96-0442-42CC-90B9-615A6FDEE9BF}
+	EndGlobalSection
+EndGlobal
